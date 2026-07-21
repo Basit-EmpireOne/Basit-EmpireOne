@@ -1,10 +1,10 @@
-![Header Banner](https://raw.githubusercontent.com/Basit-EmpireOne/Basit-EmpireOne/main/updated-bg-banner.png)
+<p align="center">
+  <img alt="Developer" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</p>
 
 <h3 align="center">
 Frontend Web Developer specializing in creating modern, responsive, and user-friendly web applications using the latest frontend technologies.
 </h3>
-
-<img align="right" alt="Developer" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
@@ -13,6 +13,8 @@ Frontend Web Developer specializing in creating modern, responsive, and user-fri
 Frontend Web Developer with a strong passion for creating responsive, accessible, and high-performance web applications. I enjoy transforming UI/UX designs into interactive digital experiences using modern frontend technologies.
 
 I focus on writing clean, reusable, and scalable code while continuously improving my skills in React.js, TypeScript, and modern frontend development.
+
+---
 
 ## Current Focus
 
