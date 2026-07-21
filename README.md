@@ -11,7 +11,7 @@ Frontend Developer with expertise in modern web technologies, currently advancin
 
 ## Current Focus
 
-- **Professional Role**: Frontend Developer at EmpireOne BPO Solutions, Inc.
+- **Role**: Frontend Developer at EmpireOne BPO Solutions, Inc.
 - **Learning**: Advancing expertise in **React.js** and modern frontend architectures.
 - **Specialization**: User Interface Development, Responsive Design, and Web Performance Optimization.
 
