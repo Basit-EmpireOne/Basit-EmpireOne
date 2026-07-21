@@ -14,8 +14,6 @@ Frontend Web Developer with a strong passion for creating responsive, accessible
 
 I focus on writing clean, reusable, and scalable code while continuously improving my skills in React.js, TypeScript, and modern frontend development.
 
----
-
 ## Current Focus
 
 - Frontend Developer at EmpireOne BPO Solutions
